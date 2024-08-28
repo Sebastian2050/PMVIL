@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PEDM</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Edad">Edad</string>
+    <string name="Aceptar">Aceptar</string>
+    <string name="Titulo">FormularioAS</string>
+    <string name="Denegar">Denegar</string>
+</resources>
